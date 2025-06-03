@@ -19,7 +19,7 @@
 ☁️ Currently Exploring:  Cloud Computing and Data Engineering<br>
 🎯 Aspiring Cloud Engineer & Data Professional<br>
 🧋 Fun Fact: I love running 🏃🏽‍♂️ and Exploring Various Coffee Shops ☕ <br>
-📚 Current Side Quest: Project 100 Days Towards "The Life": 100 Days of Python, 100 Coffee Shops, 100 Films, 100 Connections <br>
+📚 Current Side Quest: Project 100 Towards "The Life": 100 Days of Python, 100 Coffee Shops, 100 Films, 100 Connections <br>
 </p>
 
 ---

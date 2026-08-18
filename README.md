@@ -5,10 +5,6 @@
 <p align="left"><strong>I'm Julian Manuelle S. De Leon</strong></p>
 
 
-<p align="left"><strong>Also known as:</strong> <code>Alapaap.os</code></p>
-
-<p align="left">☁️ <em>Alapaap</em> — clouds that form atop mountains — reflects my journey as a lifelong learner aiming high while diving into cloud technologies.<br>
-📊 <em>.os</em> — from “dot OS” to “datos” (Tagalog for data) — marks my deepening path into data and systems.</p>
 
 ---
 
